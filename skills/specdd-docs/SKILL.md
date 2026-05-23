@@ -1,6 +1,7 @@
 ---
 name: specdd-docs
 description: Use when Codex needs to write or update user, developer, release, onboarding, or operational documentation from SpecDD specs while preserving source contract boundaries and avoiding unsupported promises.
+license: Apache-2.0
 ---
 
 # SpecDD Docs

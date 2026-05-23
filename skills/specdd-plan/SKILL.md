@@ -1,6 +1,7 @@
 ---
 name: specdd-plan
 description: Use when Codex is explicitly asked for a plan, or must resolve unclear SpecDD scope, write authority, public-contract risk, affected files, or verification before safe implementation; do not trigger for ordinary authorized changes.
+license: Apache-2.0
 ---
 
 # SpecDD Plan

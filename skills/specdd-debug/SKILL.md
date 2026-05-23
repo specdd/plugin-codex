@@ -1,6 +1,7 @@
 ---
 name: specdd-debug
 description: Use when Codex needs to diagnose or fix a bug in a SpecDD project by reproducing or inspecting failure, comparing observed behavior to active `.sdd` contracts, and applying the smallest authorized fix.
+license: Apache-2.0
 ---
 
 # SpecDD Debug

@@ -1,6 +1,7 @@
 ---
 name: specdd-do
 description: Use when Codex needs to implement a requested code, docs, tests, task, or spec change in a SpecDD project by following Resolve, Read, Authorize, Change, Verify, and Report under active bootstrap and `.sdd` authority.
+license: Apache-2.0
 ---
 
 # SpecDD Do

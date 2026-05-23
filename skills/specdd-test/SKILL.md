@@ -1,6 +1,7 @@
 ---
 name: specdd-test
 description: Use when Codex needs to derive, add, update, or assess focused tests from active SpecDD `Must`, `Scenario`, `Handles`, `Returns`, `Raises`, `Tasks`, or `Done when` contracts.
+license: Apache-2.0
 ---
 
 # SpecDD Test

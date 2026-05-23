@@ -1,6 +1,7 @@
 ---
 name: specdd-review
 description: Use when Codex needs to review a diff, branch, pull request, changed files, or proposed changes against active SpecDD contracts, focusing on spec violations, behavioral regressions, missing checks, and concrete findings.
+license: Apache-2.0
 ---
 
 # SpecDD Review

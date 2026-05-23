@@ -1,6 +1,7 @@
 ---
 name: specdd-adopt
 description: Use when Codex needs to create, add, restructure, or improve SpecDD `.sdd` contract files, define ownership or write authority, clean up missing or unclear specs, or introduce SpecDD adoption without changing implementation unless explicitly requested.
+license: Apache-2.0
 ---
 
 # SpecDD Adopt

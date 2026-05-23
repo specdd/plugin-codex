@@ -1,6 +1,7 @@
 ---
 name: specdd-trace
 description: Use when Codex needs to map SpecDD specs to code, tests, docs, changed files, public behavior, references, verification coverage, or gaps while preserving the distinction between read context and write authority.
+license: Apache-2.0
 ---
 
 # SpecDD Trace

@@ -1,6 +1,7 @@
 ---
 name: specdd-risk
 description: Use when Codex needs to classify risk before SpecDD work starts, especially around write authority, public contracts, security, data, migrations, dependencies, verification gaps, rollback, or destructive operations.
+license: Apache-2.0
 ---
 
 # SpecDD Risk

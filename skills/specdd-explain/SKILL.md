@@ -1,6 +1,7 @@
 ---
 name: specdd-explain
 description: Use when Codex needs to explain a SpecDD `.sdd` file, feature contract, or effective spec chain in succinct human language, covering purpose, scope, behavior, boundaries, tasks, scenarios, and uncertainty without editing or expanding the contract.
+license: Apache-2.0
 ---
 
 # SpecDD Explain

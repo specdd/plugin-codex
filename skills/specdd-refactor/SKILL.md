@@ -1,6 +1,7 @@
 ---
 name: specdd-refactor
 description: Use when Codex needs to refactor code, tests, docs, specs, or project structure in a SpecDD project while preserving specified behavior, public contracts, scenarios, ownership, and local write authority.
+license: Apache-2.0
 ---
 
 # SpecDD Refactor

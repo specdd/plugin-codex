@@ -1,6 +1,7 @@
 ---
 name: specdd-task
 description: Use when Codex needs to find, add, interpret, organize, or update `Tasks` entries in SpecDD `.sdd` files, including task status changes after implementation and verification are complete.
+license: Apache-2.0
 ---
 
 # SpecDD Task

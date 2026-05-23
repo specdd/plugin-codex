@@ -1,6 +1,7 @@
 ---
 name: specdd-orient
 description: Use when Codex needs to get oriented in a SpecDD project by reading `.specdd/bootstrap.md`, project/local bootstraps, root specs, explicitly applicable or requested spec files, and git status before later work, while making no edits.
+license: Apache-2.0
 ---
 
 # SpecDD Orient
