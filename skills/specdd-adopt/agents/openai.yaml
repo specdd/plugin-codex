@@ -1,4 +1,4 @@
 interface:
   display_name: "SpecDD Adopt"
-  short_description: "Create or improve SpecDD specs"
-  default_prompt: "Create specs for this project."
+  short_description: "Adopt or update SpecDD through the CLI"
+  default_prompt: "Use the SpecDD CLI to help this project adopt or update SpecDD."

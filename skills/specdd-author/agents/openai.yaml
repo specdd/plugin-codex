@@ -1,0 +1,4 @@
+interface:
+  display_name: "SpecDD Author"
+  short_description: "Create or improve SpecDD specs"
+  default_prompt: "Author or improve SpecDD specs in this project."

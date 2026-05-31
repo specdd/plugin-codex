@@ -1,6 +1,6 @@
 {
   "name": "specdd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reusable Codex skills for SpecDD development workflows.",
   "author": {
     "name": "SpecDD",
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "SpecDD",
     "shortDescription": "SpecDD workflows for Codex",
-    "longDescription": "Reusable Codex skills for orienting, adopting, explaining, planning, implementing, reviewing, testing, tracing, documenting, refactoring, and debugging work under SpecDD project contracts.",
+    "longDescription": "Reusable Codex skills for orienting, adopting, authoring specs, using the SpecDD CLI, explaining, planning, implementing, reviewing, testing, tracing, documenting, refactoring, and debugging work under SpecDD project contracts.",
     "developerName": "SpecDD",
     "category": "Developer Tools",
     "capabilities": [

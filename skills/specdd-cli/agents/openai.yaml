@@ -1,0 +1,4 @@
+interface:
+  display_name: "SpecDD CLI"
+  short_description: "Interact with SpecDD projects through the CLI"
+  default_prompt: "Use the SpecDD CLI to interact with SpecDD projects and perform functions such as CLI-based setup or framework updates when explicitly requested, resolving relevant specs, inspecting project spec structure, linting .sdd files, and choosing focused command options."
